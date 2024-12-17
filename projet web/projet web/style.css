@@ -1,0 +1,147 @@
+*{
+    margin: 0%;
+}
+body{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+    font-weight: normal;
+    font-style: normal;
+    background-color: hsla(0, 23%, 81%, 0.533) ;
+
+
+}
+header  {
+    background-color:rgb(1, 1, 4);
+    width: 100%; 
+    margin: auto; 
+    text-align: center;
+    color: rgb(136, 129, 129);
+
+}
+header a {
+    color:  rgb(232, 218, 218);
+    text-decoration: none;
+    width: 100px;
+    text-align: center;
+    display: inline-block;
+    padding: 10px;
+    margin: 40px;
+    border: 1px solid  rgb(224, 206, 210);
+    border-radius: 10px ;
+}
+.img_center{
+    float: right;
+    padding: 3%;
+    border-radius: 75px 75px;
+}
+
+main h2 {
+    margin: 40px;
+    font-size: 40px;
+    font-style: normal;
+    color: rgb(85, 0, 16);
+}
+main p{ margin: 40px;
+    font-size: 20px;
+    font-style: normal;
+    color: rgb(16, 7, 9);
+    text-align: justify;
+
+}
+footer { padding: 1%;
+}
+footer h2 { 
+    margin: 10px;
+    font-size: 25px;
+    font-style: normal;
+    color: rgb(88, 78, 89);
+}
+table td {
+    margin: 10px;
+    font-size: 15px;
+    font-style: normal;
+    color: rgb(19, 19, 31);
+}
+footer p {
+    font-size: 15px;
+    font-style: normal;
+    color: rgb(2, 2, 6);
+}
+.tableau{
+    margin-top: 30px ;
+    margin: 30px ;
+    padding: 80px ;
+    border-collapse: collapse;
+}
+.tableau  td {
+    border: 2px solid rgb(18, 18, 29);
+    padding: 20px;
+ }
+ .table {
+    margin-top: 50px ;
+    margin-left: 20px;
+    padding: 80px ;
+    border-collapse: collapse;
+ }
+ .table td {
+    margin: 40px;
+    font-size: 40px;
+    font-style: normal;
+    color: rgb(85, 0, 16);
+    font-weight: bold;
+ }
+ main li {
+    margin: 20px;
+    font-size: 25px;
+    font-style: normal;
+    color: rgb(11, 58, 4);
+ }
+ 
+ .tabilo {
+    margin-top: 20px ;
+    margin-left: 100px;
+    padding: 80px ;
+    border-collapse: collapse;
+ }
+ .tabilo td {
+    margin: 40px;
+    padding: 10px;
+    font-size: 18px;
+    font-style: normal;
+    color: rgb(9, 9, 26);
+
+ }
+.az{
+    margin-top: 3px;
+    margin-bottom: 10px;
+    margin-left: 100px;
+    font-size: 18px;
+    font-style: normal;
+    color: rgb(10, 10, 19);
+}
+.event{
+    margin-left: 100px;
+    margin-top: 10px;
+
+}
+.tevent{
+    margin-left: 100px;
+    margin-top: 10px;
+    
+}
+.tevent td{
+    padding: 10px;
+
+}
+.par td{
+    padding: 20px;
+}
+form{
+    margin-left: 100px;
+    margin-top: 10px;
+}
+.sub{
+    margin-top: 30px;
+
+    
+}
